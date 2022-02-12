@@ -1,0 +1,48 @@
+# created by eselect-repo
+
+
+[tatsh-overlay]
+location = /var/db/repos/tatsh-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/tatsh-overlay.git
+
+[beatussum-overlay]
+location = /var/db/repos/beatussum-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/beatussum-overlay.git
+
+[bombo82]
+location = /var/db/repos/bombo82
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/bombo82.git
+
+
+
+
+[ROKO__]
+location = /var/db/repos/ROKO__
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/ROKO__.git
+
+[nest]
+location = /var/db/repos/nest
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/nest.git
+
+
+
+
+[rand]
+location = /var/db/repos/rand
+sync-type = git
+sync-uri = https://git.decade.cz/martin/rand.git
+
+
+
+
+
+
+[argent-main]
+location = /var/db/repos/argent-main
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/argent-main.git

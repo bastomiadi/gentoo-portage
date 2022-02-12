@@ -1,0 +1,57 @@
+# package.use# required by dev-db/mysql-workbench-8.0.26-r1::gentoo
+# required by dev-db/mysql-workbench (argument)
+>=net-libs/libssh-0.9.6 server
+# required by sci-libs/gdal-3.3.2-r1::gentoo
+# required by dev-db/mysql-workbench-8.0.26-r1::gentoo
+# required by dev-db/mysql-workbench (argument)
+>=sys-libs/zlib-1.2.11-r4 minizip
+# required by net-im/telegram-desktop-3.0.1-r1::gentoo
+# required by net-im/telegram-desktop (argument)
+>=media-video/ffmpeg-4.4-r1 opus
+# required by media-video/handbrake-1.4.2-r1::gentoo
+# required by media-video/handbrake (argument)
+>=media-video/ffmpeg-4.4.1-r1 fdk
+# required by media-video/celluloid-0.21::gentoo
+# required by media-video/celluloid (argument)
+>=media-video/mpv-0.33.1-r1 libmpv
+# required by kde-apps/kdenlive-21.08.2::gentoo
+# required by kdenlive (argument)
+>=media-libs/mlt-7.0.1-r2 frei0r ffmpeg
+# required by sys-boot/os-prober-1.79::gentoo
+# required by sys-boot/os-prober (argument)
+>=sys-boot/grub-2.06-r1 mount
+# required by dev-php/pecl-imagick-3.5.1::gentoo
+# required by dev-php/pecl-imagick (argument)
+>=media-gfx/imagemagick-7.1.0.13 -openmp
+# required by dev-php/composer-2.1.12::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-lang/php-8.0.13 curl
+# required by media-sound/easyeffects-6.1.5::gentoo
+# required by easyeffects (argument)
+>=media-libs/rubberband-2.0.0 ladspa
+# required by app-emulation/virt-manager-3.2.0::gentoo[gtk]
+# required by virt-manager (argument)
+>=net-misc/spice-gtk-0.39-r1 usbredir
+# required by app-emulation/libvirt-7.8.0::gentoo[virt-network]
+# required by app-emulation/libvirt-glib-4.0.0::gentoo
+# required by app-emulation/virt-manager-3.2.0::gentoo
+# required by virt-manager (argument)
+>=net-dns/dnsmasq-2.86 script
+# required by media-libs/ganv-1.8.0::gentoo[introspection]
+# required by media-sound/patchage-1.0.4::gentoo
+# required by patchage (argument)
+>=dev-libs/gobject-introspection-1.70.0 doctool
+# required by media-gfx/graphviz-2.49.0::gentoo
+# required by media-libs/ganv-1.8.0::gentoo[graphviz]
+# required by media-sound/patchage-1.0.4::gentoo
+# required by patchage (argument)
+>=media-libs/gd-2.3.3-r1 fontconfig
+# required by media-video/shotcut-21.10.31::gentoo
+# required by media-video/shotcut (argument)
+>=media-libs/mlt-7.2.0 jack
+# required by media-plugins/frei0r-plugins-1.7.0-r1::gentoo[facedetect]
+# required by media-libs/mlt-7.2.0::gentoo[frei0r]
+# required by @selected
+# required by @world (argument)
+>=media-libs/opencv-4.5.4 contribdnn

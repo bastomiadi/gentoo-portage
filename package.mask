@@ -1,0 +1,3 @@
+dev-lang/rust
+#net-libs/webkit-gtk
+>dev-db/mongodb-5.0.2
